@@ -1,0 +1,25 @@
+{
+  "name": "ChatBot",
+  "version": "0.1",
+  "description": "Easy to use discord chatbot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "smartestchatbot": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "chatbot",
+    "discord"
+  ]
+  "author": "",
+  "license": "ISC"
+}
