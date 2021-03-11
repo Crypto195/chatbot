@@ -2,7 +2,7 @@
 Easy to use chatbot!
 
 
-Steps:
+#### Steps:
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications) and copy your token
 2. Go to the [server.js](https://github.com/crypto195/nqn_remake/server.js) file and put the token that you had copied before
 3. And now you can chat with it!
