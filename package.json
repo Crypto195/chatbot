@@ -4,8 +4,8 @@
   "description": "Easy to use discord chatbot",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.3.1",
-    "smartestchatbot": "^1.0.4"
+    "alexa-bot-api": "^0.2.1",
+    "discord.js": "^12.5.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -19,7 +19,7 @@
     "node",
     "chatbot",
     "discord"
-  ]
+  ],
   "author": "",
   "license": "ISC"
 }
